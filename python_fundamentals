@@ -3,6 +3,13 @@
 #Output:
  #   Hello, World
 
-
 user_name=input()
 print("Hello, "+user_name)
+
+# Input:
+#     4
+# Output:
+#     7
+
+num=int(input())
+print(num+3)
